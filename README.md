@@ -12,6 +12,17 @@ git clone https://github.com/m0nsieurR/loveroomsnipe/
 cd loveroomsnipe
 start install.bat
 ```
+
+## Lancement
+
+Comment setup et lancer le programme ?
+
+```bash
+  Lancer le fichier "config.js".
+  Modifier le token et mettre le votre.
+  Sauvegarder.
+  Puis lancer le "start.bat"
+```
     
 ## Authors
 
@@ -33,17 +44,3 @@ Je met des delay random pour que ça sois pas détecté par n'importe quel bot.
 - 🔄 Met automatiquement comme status ".gg/loveroom"
 - 🔄 Suivi automatique des giveaways.
 - 🔄 Notification sous forme de Webhook.
-
-
-
-## Lancement
-
-Comment setup et lancer le programme ?
-
-```bash
-  Lancer le fichier "config.js".
-  Modifier le token et mettre le votre.
-  Sauvegarder.
-  Puis lancer le "start.bat"
-```
-
