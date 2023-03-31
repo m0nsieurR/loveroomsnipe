@@ -13,7 +13,7 @@ cd loveroomsnipe
 start install.bat
 ```
 
-## Lancement
+## Setup & Lancement
 
 Comment setup et lancer le programme ?
 
