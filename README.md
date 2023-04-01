@@ -19,9 +19,8 @@ Comment setup et lancer le programme ?
 
 ```bash
   Lancer le fichier "config.js".
-  Modifier le token et mettre le votre.
-  Sauvegarder.
-  Puis lancer le "start.bat"
+  Modifier le token et mettez le votre.
+  Sauvegarder, puis lancer le "start.bat"
 ```
     
 ## Authors
